@@ -1,6 +1,6 @@
 # Movies
 
-##Installation Step
+## Installation Step
    1. git clone https://github.com/Fermekoo/rest-movies.git
    2. setup the .env file (copy .env.example)
    3. run command npm install
